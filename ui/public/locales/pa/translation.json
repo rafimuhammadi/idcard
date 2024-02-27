@@ -1,0 +1,18 @@
+{
+  "title": "Welcome to react using react-i18next",
+  "description": {
+    "part1": "pashto",
+    "part2": "Switch language between english and german using buttons above."
+  },
+  "dec": {
+    "p2": "haji rafi pashto",
+    "part2": "Switch language between english and german using buttons above."
+  },
+
+  "validation": {
+    "required": "masdf {{name}} ضروری میباشد!",
+    "select-required": "انتخاب {name} ضروری میباشد!",
+    "max": "بیشتر از 64 حرف {name} نباشد!",
+    "min-selection": "حداقل  1 {name} را انتخاب نماید"
+  }
+}
